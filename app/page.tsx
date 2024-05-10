@@ -4,8 +4,11 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="w-full">
+      
       <Section>
-        je veux faire un portfolio simple et eficace
+        je veux faire un portfolio simple et eficace.
+        et tout dans une seulle page
+
       </Section>
     </main>
   );
